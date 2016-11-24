@@ -8,7 +8,7 @@
   background-attachment: fixed; }
 
 .parallax h1 {
-  color: #34495e;
+  color: orange;
   text-align: center;
   text-transform: uppercase;
   text-shadow: 2px 2px 2px rgba(149, 165, 166, 0.7);
@@ -19,7 +19,7 @@
   width: 100%; }
 
 h1, h2, h4, h5 {
-  color: #34495e; }
+  color: orange; }
 
 .header-line {
   border: solid 2px #95a5a6;
@@ -71,6 +71,6 @@ h1, h2, h4, h5 {
   font-size: 17px; }
 
 .lead {
-  color: #34495e;
+  color: orange;
   font-size: 15px;
   font-weight: lighter; }
